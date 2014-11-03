@@ -1,0 +1,34 @@
+{
+  "name": "koaify",
+  "version": "1.0.0",
+  "description": "Mark all koa and fax compatible packages as es6ify targets to run them in the browser",
+  "main": "index.js",
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": "yoshuawuyts/koaify",
+  "keywords": [
+    "koa",
+    "browserify",
+    "transform",
+    "generators",
+    "es6",
+    "fax",
+    "viralify"
+  ],
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "istanbul": "^0.3.2",
+    "make-lint": "^1.0.1",
+    "mocha": "^2.0.1",
+    "should": "^4.1.0",
+    "viralify": "^0.4.2"
+  },
+  "files": [
+    "lib",
+    "LICENSE",
+    "index.js",
+    "HISTORY.md"
+  ]
+}
