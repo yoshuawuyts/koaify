@@ -17,13 +17,14 @@
     "viralify"
   ],
   "license": "MIT",
-  "dependencies": {},
+  "dependencies": {
+    "viralify": "^0.4.2"
+  },
   "devDependencies": {
     "istanbul": "^0.3.2",
     "make-lint": "^1.0.1",
     "mocha": "^2.0.1",
-    "should": "^4.1.0",
-    "viralify": "^0.4.2"
+    "should": "^4.1.0"
   },
   "files": [
     "lib",
