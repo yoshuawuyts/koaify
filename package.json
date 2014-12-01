@@ -1,6 +1,6 @@
 {
   "name": "koaify",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Mark all koa and fax compatible packages as es6ify targets to run them in the browser",
   "main": "index.js",
   "scripts": {
